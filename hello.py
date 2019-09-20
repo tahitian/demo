@@ -1,4 +1,1 @@
-hello
-dev
-master
 master
